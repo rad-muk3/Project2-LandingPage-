@@ -16,5 +16,5 @@ make the Landing-Page dynamic.
 3. When clicking an item from the navigation menu, the link scrolls to the appropriate section.
 4. To view the contents of Each Section, a collapsible functionality has been added to each section. If you click on the plus or
 minus icon the contents show or hide appropriately. This helps with readability.
-5. A Top button will show while scrolling down and when clicking on Top button it takes you to the top of the Page.
+
 To view this Dynamic Landing Page, open index.html on any browser and test the above points.

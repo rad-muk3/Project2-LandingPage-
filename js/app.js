@@ -39,7 +39,7 @@ const sectionInViewport = (elem) => {
 
   const vRect = elem.getBoundingClientRect();
   return (
-    vRect.top >= 0 &&
+    vRect.top >= -200 &&
     vRect.left >= 0 &&
     vRect.bottom <=
     (window.innerHeight || document.documentElement.clientHeight) &&
